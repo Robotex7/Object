@@ -1,0 +1,5 @@
+dist
+coverage
+docs
+dist
+/src/index.js
